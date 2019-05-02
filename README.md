@@ -1,0 +1,3 @@
+# ElectraRmqZeroDevelopTest
+
+## FOR TESTING RMQ IN ARM6 CONTROLLER <RESIN>
